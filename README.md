@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://samyakj.tech)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 
 # Hi, I'm Zaineel! 👋
 
@@ -42,9 +42,7 @@ I'm open to collaborating on exciting projects related to AI, machine learning, 
 
 You can connect with me on GitHub or reach out via email at [zaineel.s.mithani@gmail.com](mailto:zaineel.s.mithani@gmail.com). I'm always eager to engage with fellow enthusiasts, learn from others, and share knowledge.
 
----
-
-[![](https://visitcount.itsvg.in/api?id=zaineel&icon=2&color=12)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaineel&label=Profile%20views&color=0e75b6&style=flat" alt="zaineel" /> </p>
 
 <!--
 zaineel/zaineel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
