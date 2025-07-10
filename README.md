@@ -18,14 +18,6 @@ I'm passionate about Machine Learning and Artificial Intelligence, and I'm curre
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zaineel&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaineel&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaineel&show_icons=true&theme=dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaineel&theme=github-compact)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaineel&layout=compact&theme=dark)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=zaineel&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
